@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        　私の描く将来のキャリアは、少子高齢化に伴うインフラ人材の労働負荷及び介護負担増加の課題に取り組む研究者となることである。日本の公共インフラの維持に関しては近い将来、困難な状況になることが想定可能である。気候変動に伴う災害の増加や人口減少の課題に直面してきた日本が、世界に先駆けて革新的な対策としてPASを普及させることは有意義な挑戦に値すると私は考えている。
         
-        Please reach out to collaborate 😃
+        　また、私はこれまでに高齢者及び障碍者の支援に関する研究にも取り組んできた。高齢化によって家庭の中でも身体的な負担の大きい仕事が増えている現代の日本にとってもPASは重要である。日本だけでなく、世界共通の課題に貢献できる研究を進めていきたい。
     design:
       columns: '1'
   - block: collection

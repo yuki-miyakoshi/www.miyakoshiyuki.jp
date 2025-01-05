@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+宮腰悠希は、東京電機大学の修士課程に在籍している学生で、機械工学を専門としている。建築業技能者の疲労軽減を目的としたパワーアシストスーツ（PAS）の評価と改善に取り組んでおり、運動学や生体信号処理などの分野も積極的に学びながら、客観的かつ定量的な評価手法を開発している。
