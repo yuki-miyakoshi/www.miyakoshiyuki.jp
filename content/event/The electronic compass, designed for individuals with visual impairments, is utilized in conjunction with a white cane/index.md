@@ -37,9 +37,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Needs and Idea Forum**](http://n-i-f.jp/works2022/3)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Needs and Idea Forum**](http://n-i-f.jp/works2022/3)'
+#   focal_point: Right
 
 #links:
 #  - icon: twitter
