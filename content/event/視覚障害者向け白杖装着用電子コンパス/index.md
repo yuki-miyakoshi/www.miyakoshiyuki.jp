@@ -1,7 +1,7 @@
 ---
 title: 視覚障害者向け白杖装着用電子コンパス
 
-event: Needs and Idea Forum
+event: ニーズ＆アイデアフォーラム2022（第9回）成果発表会
 event_url: http://n-i-f.jp/works2022/3
 
 location: 国立障害者リハビリテーションセンター
