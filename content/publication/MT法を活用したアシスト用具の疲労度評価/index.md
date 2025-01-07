@@ -5,13 +5,13 @@ title: 'MT法を活用したアシスト用具の疲労度評価'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 遠藤丙午郎 (関電工)
-  - 伊藤祐司 (関電工)
-  - 佐野常世 (関電工)
-  - 堀川豊 (関電工)
-  - 井上淳 (東京電機大)
+  - 遠藤丙午郎
+  - 伊藤祐司
+  - 佐野常世
+  - 堀川豊
+  - 井上淳
   - admin
-  - 浦澤優希 (東京電機大)
+  - 浦澤優希
 
 # Author notes (optional)
 # author_notes:

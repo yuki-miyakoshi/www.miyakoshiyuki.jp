@@ -5,9 +5,9 @@ title: '支援機器評価プラットフォームとしての二足歩行ロボ
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 野口和輝 (東京電機大)
+  - 野口和輝
   - admin
-  - 井上淳 (東京電機大)
+  - 井上淳
 
 # Author notes (optional)
 # author_notes:
