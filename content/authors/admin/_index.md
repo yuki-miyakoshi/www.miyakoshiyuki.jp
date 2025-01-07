@@ -61,10 +61,10 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
+  - area: 修士（工学）- 在学中 - 
+    institution: 東京電機大学
+    date_start: 2023-04-01
+    # date_end: 2020-12-31
   #   summary: |
   #     GPA: 3.8/4.0
 
@@ -75,7 +75,7 @@ education:
   - area: 学士（工学）
     institution: 東京電機大学
     date_start: 2019-04-01
-    date_end: 2025-03-31
+    date_end: 2023-03-31
     # summary: |
     #   GPA: 3.4/4.0
       
