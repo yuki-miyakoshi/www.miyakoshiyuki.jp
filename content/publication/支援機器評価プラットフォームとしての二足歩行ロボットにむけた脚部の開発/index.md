@@ -46,7 +46,7 @@ tags:
   - 評価システム
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -64,10 +64,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Human Assistive Technology lab**](https://sites.google.com/view/inouelab/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B/%E4%BA%8C%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88?authuser=0)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

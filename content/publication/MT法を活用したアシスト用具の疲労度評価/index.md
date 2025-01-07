@@ -45,7 +45,7 @@ tags:
   - コンプレッションウェア
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -63,10 +63,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Human Assistive Technology lab**](https://sites.google.com/view/inouelab/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B?authuser=0#h.q1bommo1ivai)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
