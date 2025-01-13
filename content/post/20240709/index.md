@@ -1,7 +1,7 @@
 ---
-title: 東京電機大学大学院工学研究科機械工学専攻に入学しました
+title: 東京電機大学大学院先端科学技術研究科機械システム工学専攻に合格しました
 # summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-04-01
+date: 2024-07-09
 authors:
   - admin
 # tags:
