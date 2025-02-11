@@ -40,17 +40,17 @@ sections:
         　また、私はこれまでに高齢者及び障碍者の支援に関する研究にも取り組んできた。高齢化によって家庭の中でも身体的な負担の大きい仕事が増えている現代の日本にとってもPASは重要である。日本だけでなく、世界共通の課題に貢献できる研究を進めていきたい。
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -67,7 +67,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talk
     design:
       view: article-grid
       columns: 1
