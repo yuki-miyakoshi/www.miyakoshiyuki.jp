@@ -52,22 +52,23 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
+      title: Recent Papers
       text: ""
       filters:
         folders:
-          - publication
+          - papers
         exclude_featured: false
     design:
       view: citation
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
-          - talk
+          - talks
     design:
       view: article-grid
       columns: 1
