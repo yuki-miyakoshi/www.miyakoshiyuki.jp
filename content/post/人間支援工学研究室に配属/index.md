@@ -1,7 +1,7 @@
 ---
-title: 令和7年度東京電機大学特任助手に応募しました
+title: 人間支援工学研究室に配属されました
 # summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2024-09-02
+date: 2022-03-02
 authors:
   - admin
 # tags:
