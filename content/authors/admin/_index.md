@@ -141,13 +141,13 @@ education:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: Japanese
-    percent: 100
-  - name: English
-    percent: 25
-  - name: Chinese
-    percent: 5
+# languages:
+#   - name: Japanese
+#     percent: 100
+#   - name: English
+#     percent: 25
+#   - name: Chinese
+#     percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
