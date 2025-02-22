@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: 'ocmc_dIYf_CSJW6aMJS4A0_bdvRcRwfZMQVdwQ0VGIo'
+    google: ''
     baidu: ''
 
 # Site header
@@ -58,3 +58,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+i_am_a_sponsor: true

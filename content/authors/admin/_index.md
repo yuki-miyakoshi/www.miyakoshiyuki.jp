@@ -62,7 +62,7 @@ education:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
   - area: 修士（工学）- 在学中 - 
-    institution: 東京電機大学
+    institution: 東京電機大学　工学研究科　機械工学専攻
     date_start: 2023-04-01
     # date_end: 2020-12-31
   #   summary: |
@@ -73,7 +73,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 学士（工学）
-    institution: 東京電機大学
+    institution: 東京電機大学　工学部第二部　機械工学科
     date_start: 2019-04-01
     date_end: 2023-03-31
     # summary: |
