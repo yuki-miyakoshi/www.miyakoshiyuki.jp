@@ -65,22 +65,22 @@ education:
     institution: 東京電機大学　工学研究科　機械工学専攻
     date_start: 2023-04-01
     # date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
+    summary: |
 
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座　修了
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 学士（工学）
     institution: 東京電機大学　工学部第二部　機械工学科
     date_start: 2019-04-01
     date_end: 2023-03-31
-    # summary: |
-    #   GPA: 3.4/4.0
-      
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+     
+      - 2021年10月　二級ボイラー技士　取得
+      - 2021年 6月　危険物取扱者乙種4類　取得
+      - 2021年 4月　基本情報技術者　合格
+      - 2021年 3月　第一級陸上特殊無線技士　取得
+      - 2019年 7月　実用英語技能検定2級　合格
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
