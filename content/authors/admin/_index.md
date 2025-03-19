@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student in Engineering
+role: Doctor's Student in Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Human Assistive Technology lab
+  - name: 人間支援工学研究室（リンク）
     url: https://sites.google.com/view/inouelab/
 
 # Social network links
@@ -61,12 +61,16 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: 修士（工学）- 在学中 - 
-    institution: 東京電機大学　工学研究科　機械工学専攻
+  - area: 博士（工学） - 入学見込み -
+    institution: 東京電機大学　大学院先端科学技術研究科　機械システム工学専攻
+    date_start: 2025-04-01
+    # date_end: 2025-03-31
+  - area: 修士（工学）
+    institution: 東京電機大学　大学院工学研究科　機械工学専攻
     date_start: 2023-04-01
-    # date_end: 2020-12-31
+    date_end: 2025-03-31
     summary: |
-
+      Courses included:
       - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座　修了
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -75,7 +79,7 @@ education:
     date_start: 2019-04-01
     date_end: 2023-03-31
     summary: |
-     
+      取得資格等:
       - 2021年10月　二級ボイラー技士　取得
       - 2021年 6月　危険物取扱者乙種4類　取得
       - 2021年 4月　基本情報技術者　合格
@@ -83,29 +87,40 @@ education:
       - 2019年 7月　実用英語技能検定2級　合格
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: 東京電機大学SPRINGスカラシップ研究学生 - 採択見込み -
+    # company_name: GenCoin
+    # company_url: ''
+    # company_logo: ''
+    date_start: 2025-04-01
+    # date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Director of Cloud Infrastructure
+  #   company_name: GenCoin
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2021-01-01
+  #   date_end: ''
+  #   summary: |2-
+  #     Responsibilities include:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +198,4 @@ education:
 
 ## About Me
 
-宮腰悠希は、東京電機大学の修士課程に在籍している学生で、機械工学を専門としている。建築業技能者の疲労軽減を目的としたパワーアシストスーツ（PAS）の評価と改善に取り組んでおり、運動学や生体信号処理などの分野も積極的に学びながら、客観的かつ定量的な評価手法を開発している。
+宮腰悠希は、東京電機大学の博士課程に在籍している学生で、機械工学を専門としている。建築業技能者の疲労軽減を目的としたパワーアシストスーツ（PAS）の評価と改善に取り組んでおり、運動学や生体信号処理などの分野も積極的に学びながら、客観的かつ定量的な評価手法を開発している。

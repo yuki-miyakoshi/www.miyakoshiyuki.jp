@@ -25,7 +25,6 @@ all_day: true
 publishDate: '2023-07-01T00:00:00Z'
 
 authors:
-  - 野口和輝
   - admin
 
 tags: []
