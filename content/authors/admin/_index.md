@@ -61,7 +61,7 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: 博士（工学） - 入学見込み -
+  - area: 博士（工学） - 在学中 -
     institution: 東京電機大学　大学院先端科学技術研究科　機械システム工学専攻
     date_start: 2025-04-01
     # date_end: 2025-03-31
@@ -88,12 +88,12 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: 東京電機大学SPRINGスカラシップ研究学生 - 採択見込み -
+  - position: 東京電機大学SPRINGスカラシップ研究学生
     # company_name: GenCoin
     # company_url: ''
     # company_logo: ''
     date_start: 2025-04-01
-    # date_end: ''
+    # date_end: '2028-03-31'
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
