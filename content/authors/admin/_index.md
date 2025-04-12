@@ -72,7 +72,6 @@ education:
     summary: |
       Courses included:
       - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座　修了
-      https://www.dendai.ac.jp/crc/tlo/me/globalization/schedule_R06_onlinekoza.html
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 学士（工学）
@@ -123,21 +122,21 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
