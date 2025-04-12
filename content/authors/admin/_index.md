@@ -94,9 +94,6 @@ work:
     # company_logo: ''
     date_start: 2025-04-01
     # date_end: '2028-03-31'
-    summary: |2-
-      関連URL:
-      - https://www.dendai.ac.jp/news/20250409-01.html
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
   #   company_url: ''
