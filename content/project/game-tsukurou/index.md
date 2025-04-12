@@ -1,6 +1,6 @@
 ---
 title: げーむつくろう[未経験から始めたゲーム制作チーム]
-date: 2022-08-20
+date: 2023-01-07
 external_link: https://www.game-tsukurou.com/
 tags:
   - ゲーム

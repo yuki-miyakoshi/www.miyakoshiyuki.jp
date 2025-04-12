@@ -1,7 +1,7 @@
 ---
 title: Arduinoのライブラリマネージャーに申請する方法が変わりましたよ！
 ## summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2022-08-11
+date: 2022-08-20
 authors:
   - admin
 ## tags:
