@@ -26,7 +26,7 @@ main:
     url: projects/
     weight: 21
   - name: Contact
-    url: https://forms.gle/7XjzGMpxfQDoJ3Ly6
+    url: contact/
     weight: 30
   # - name: Teaching
   #   url: teaching/
