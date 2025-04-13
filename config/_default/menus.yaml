@@ -26,7 +26,7 @@ main:
     url: projects/
     weight: 21
   - name: Contact
-    url: contact/
+    url: https://docs.google.com/forms/d/e/1FAIpQLSe4TH1fT2p5OB0SieliXXXg3RAQun-GEaX2WHl5Hq0zpfQPaA/viewform?usp=dialog
     weight: 30
   # - name: Teaching
   #   url: teaching/
