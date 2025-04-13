@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} MIYAKOSHI Yuki. This work is licensed under {license}'
+    notice: 'This work is licensed under {license} </br> © {year} MIYAKOSHI Yuki'
     license:
       enable: true
       allow_derivatives: true
