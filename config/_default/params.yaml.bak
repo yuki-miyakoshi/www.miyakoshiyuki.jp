@@ -1,0 +1,62 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: '宮腰悠希のポートフォリオサイト'
+    # twitter: 'GetResearchDev'
+  analytics:
+    google_analytics: 'G-SDLX266KE1'
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "www.宮腰悠希.jp"
+
+# Site footer
+footer:
+  copyright:
+    notice: 'This work is licensed under {license} </br> © {year} MIYAKOSHI Yuki'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
+
+# Localization
+locale:
+  date_format: '2006/01/02'
+  time_format: '15:04'
+
+# Site features
+features:
+  math:
+    enable: true
+  privacy_pack:
+    enable: true
+
+i_am_a_sponsor: true

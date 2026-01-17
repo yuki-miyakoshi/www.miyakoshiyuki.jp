@@ -1,16 +1,10 @@
 ---
 title: Arduinoのライブラリマネージャーに申請する方法が変わりましたよ！
-## summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2022-08-20
 authors:
-  - admin
-## tags:
-##   - Hugo
-##   - Hugo Blox
-##   - Markdown
-## image:
-##   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - me
 ---
+
 
 2021年6月以前はArduino公式レポジトリにIssuesで連絡して手動でライブラリマネージャーに登録してもらえるように連絡するという方法でした。
 
