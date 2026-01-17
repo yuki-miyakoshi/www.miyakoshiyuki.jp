@@ -243,7 +243,7 @@ hugoblox:
   locale:
     date_format: "2006/01/02"          # Go time format
     time_format: "15:04"
-    address_format: en-us
+    address_format: ja-JP
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
