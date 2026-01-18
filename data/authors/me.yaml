@@ -46,3 +46,14 @@ education:
       - 2021年 3月　第一級陸上特殊無線技士　取得
 
       - 2019年 7月　実用英語技能検定2級　合格
+
+experience:
+  - role: 東京電機大学SPRINGスカラシップ研究学生
+    org: 東京電機大学
+    start: 2025-04-09
+    summary: |
+      次世代研究者挑戦的研究プログラム「実学尊重に基づくTDU博士人材育成プログラム」における「東京電機大学SPRINGスカラシップ研究学生」として採用されました。
+    button:
+      text: View news
+      url: https://www.dendai.ac.jp/news/20250409-01.html
+      icon: hero/arrow-down-tray
