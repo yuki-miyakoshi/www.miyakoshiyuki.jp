@@ -22,8 +22,8 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
+        about: '自己紹介'
+        education: '学歴'
         interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
