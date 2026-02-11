@@ -3,6 +3,7 @@ title: GitHubの使い方 How to GitHub
 date: 2022-08-11
 authors:
   - me
+draft: true
 ---
 
 

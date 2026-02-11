@@ -16,9 +16,9 @@ main:
   - name: ニュース
     url: news/
     weight: 13
-  - name: ブログ
-    url: blog/
-    weight: 13
+  # - name: ブログ
+  #   url: blog/
+  #   weight: 13
   - name: 経歴
     url: experience/
     weight: 20
