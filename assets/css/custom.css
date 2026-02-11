@@ -18,3 +18,37 @@
 .resume-biography-3 p:last-child {
   margin-bottom: 0;
 }
+
+/* Publications page - add horizontal padding for all screen sizes */
+.section-collection,
+.pub-list,
+.citation,
+.page-content,
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Larger padding for tablets and up */
+@media (min-width: 640px) {
+  .section-collection,
+  .pub-list,
+  .citation,
+  .page-content,
+  .container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+/* Even larger padding for desktop */
+@media (min-width: 1024px) {
+  .section-collection,
+  .pub-list,
+  .citation,
+  .page-content,
+  .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
