@@ -1,0 +1,20 @@
+.bio-text p {
+  margin-bottom: 1em;
+}
+
+.bio-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Hugo Blox biography section */
+.biography p,
+.bio p,
+.resume-biography-3 p {
+  margin-bottom: 1em;
+}
+
+.biography p:last-child,
+.bio p:last-child,
+.resume-biography-3 p:last-child {
+  margin-bottom: 0;
+}
