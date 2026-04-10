@@ -12,6 +12,8 @@ status:
 role: Doctor's Student in Engineering
 bio: ''
 affiliations:
+  - name: researchmap（リンク）
+    url: https://researchmap.jp/miyakoshi.yuki/
   - name: 人間支援工学研究室（リンク）
     url: https://sites.google.com/view/inouelab/
 links:
