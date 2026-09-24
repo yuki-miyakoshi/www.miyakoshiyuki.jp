@@ -82,12 +82,12 @@ tags: []
 - public/ はビルド出力のため、手動編集しても再生成で上書きされる
 - ニュース一覧の view 名 news はテーマにない。date-title-summary を使う
 - pnpm dev の実行中に新しいフォルダを足すと、ビルドログは成功しても URL が 404 のままになることがある。そのときは開発サーバーを止めて再起動する。既存ファイルの修正だけなら再起動は不要
-- Netlify では hugo --gc --minify を使うため、ローカル差異確認時はこの差を考慮する
+- 本番のビルドは Cloudflare Pages。main への push で始まる。GitHub Actions の .github/workflows/deploy.yml は手動で無効になっており、本番ビルドではない
 
 ## Key Reference Files
 
 - package.json
-- netlify.toml
+- netlify.toml: 残っている設定ファイル。本番の配信先ではない
 - config/_default/hugo.yaml
 - config/_default/languages.yaml
 - content/ja/_index.md
