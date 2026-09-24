@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: '経歴'
 date: 2023-10-24
 type: landing
 

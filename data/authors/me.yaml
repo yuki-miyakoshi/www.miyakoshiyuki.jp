@@ -5,53 +5,48 @@ name:
   given: Yuki
   family: MIYAKOSHI
   pronunciation: MIYAKOSHI Yuki
-  pronouns: he/him
 is_owner: true
-status:
-  icon: ⚙️
-role: Doctor's Student in Engineering
+role: 博士後期課程（機械システム工学）
 bio: ''
 affiliations:
-  - name: researchmap（リンク）
+  - name: researchmap
     url: https://researchmap.jp/miyakoshi.yuki/
-  - name: 人間支援工学研究室（リンク）
+  - name: 人間支援工学研究室
     url: https://sites.google.com/view/inouelab/
 links:
   - icon: brands/github
     url: https://github.com/yuki-miyakoshi
 education:
-  - institution: 東京電機大学　大学院先端科学技術研究科　機械システム工学専攻
-    degree: 博士（工学） - 在学中 -
+  - institution: 東京電機大学
+    degree: 博士（工学）課程 機械システム工学専攻（在学中）
     start: 2025-04-01
     summary: |
-      Courses included:
       - TDU International Workshop 2025
-      - 2025 年度 夏季海外短期研修（ベトナム）
+      - 2025年度 夏季海外短期研修（ベトナム）
 
-  - institution: 東京電機大学　大学院工学研究科　機械工学専攻
-    degree: 修士（工学）
+  - institution: 東京電機大学
+    degree: 修士（工学）機械工学専攻
     start: 2023-04-01
     end: 2025-03-31
     summary: |
-      Courses included:
-      - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座　修了
+      - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座 修了
 
-  - institution: 東京電機大学　工学部第二部　機械工学科
-    degree: 学士（工学）
+  - institution: 東京電機大学
+    degree: 学士（工学）工学部第二部 機械工学科
     start: 2019-04-01
     end: 2023-03-31
     summary: |
-      取得資格等:
+      取得資格:
 
-      - 2021年10月　二級ボイラー技士　取得
+      - 2021年10月 二級ボイラー技士 取得
 
-      - 2021年 6月　危険物取扱者乙種4類　取得
+      - 2021年6月 危険物取扱者乙種4類 取得
 
-      - 2021年 4月　基本情報技術者　合格
+      - 2021年4月 基本情報技術者 合格
 
-      - 2021年 3月　第一級陸上特殊無線技士　取得
+      - 2021年3月 第一級陸上特殊無線技士 取得
 
-      - 2019年 7月　実用英語技能検定2級　合格
+      - 2019年7月 実用英語技能検定2級 合格
 
 experience:
   - role: 東京電機大学SPRINGスカラシップ研究学生
@@ -60,6 +55,6 @@ experience:
     summary: |
       次世代研究者挑戦的研究プログラム「実学尊重に基づくTDU博士人材育成プログラム」における「東京電機大学SPRINGスカラシップ研究学生」として採用されました。
     button:
-      text: View news
+      text: ニュースを見る
       url: https://www.dendai.ac.jp/news/20250409-01.html
       icon: hero/arrow-down-tray

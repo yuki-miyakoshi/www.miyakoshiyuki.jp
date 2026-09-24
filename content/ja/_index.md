@@ -7,7 +7,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -15,8 +15,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |
-        　東京電機大学大学院 博士後期課程に在籍し、機械工学を専門として研究に従事。2025年4月より、東京電機大学SPRINGスカラシップ研究学生として採用される。現在は、建設業に従事する技能者の疲労軽減を目的としたパワーアシストスーツ（PAS）の評価および改良に取り組んでおり、視覚的かつ定量的な評価手法の開発を主たる研究テーマとしている。<br><br>
-        　研究活動に加えて、個人にてサーバー環境の構築・運用を行っており、仮想化技術やWebサービスのホスティングを通じて、インフラ関連技術の習得にも注力している。2021年にはアマチュア無線局を開局し、430MHz帯におけるFM通信のほか、5.7GHz帯を用いたFPVドローンの運用にも携わっている。さらに、ソフトウェア開発にも関心を持ち、2023年にはiOS向けアプリケーション『漢字ぴったん』をApp Storeにて公開した。
+        東京電機大学大学院 先端科学技術研究科 機械システム工学専攻の博士後期課程に在籍しています。SPRINGスカラシップ研究学生として、建設現場の技能者の疲労を減らすパワーアシストスーツの評価と改良に取り組んでいます。モーションキャプチャで得た関節角度を、視覚的かつ定量的に評価する手法が現在のテーマです。
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -41,12 +40,18 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '研究'
       subtitle: ''
       text: |-
-        　私の描く将来のキャリアは、少子高齢化に伴うインフラ人材の労働負荷及び介護負担増加の課題に取り組む研究者となることである。日本の公共インフラの維持に関しては近い将来、困難な状況になることが想定可能である。気候変動に伴う災害の増加や人口減少の課題に直面してきた日本が、世界に先駆けて革新的な対策としてPASを普及させることは有意義な挑戦に値すると私は考えている。
-        
-        　また、私はこれまでに高齢者及び障碍者の支援に関する研究にも取り組んできた。高齢化によって家庭の中でも身体的な負担の大きい仕事が増えている現代の日本にとってもPASは重要である。日本だけでなく、世界共通の課題に貢献できる研究を進めていきたい。
+        研究の目標は、少子高齢化で増えるインフラ維持と介護の身体負担を、支援機器で軽くすることです。電気工事のような人力に依存する作業を対象に、アシストスーツが姿勢や疲労をどう変えるかを測れるようにします。
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'その他'
+      subtitle: ''
+      text: |-
+        個人ではサーバーの構築と運用、アマチュア無線（430MHz帯のFM通信、5.7GHz帯のFPVドローン）、iOSアプリ『漢字ぴったん』（2023年、App Store）にも取り組んでいます。
     design:
       columns: '1'
   # - block: collection
@@ -63,7 +68,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: 最近の研究業績
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
@@ -76,7 +81,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 講演
       filters:
         folders:
           - events
@@ -85,7 +90,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: ニュース
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

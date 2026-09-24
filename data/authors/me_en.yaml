@@ -1,0 +1,56 @@
+schema: hugoblox/author/v1
+slug: me_en
+name:
+  display: Yuki Miyakoshi
+  given: Yuki
+  family: Miyakoshi
+  pronunciation: MIYAKOSHI Yuki
+role: Ph.D. Student in Mechanical Systems Engineering
+bio: ''
+affiliations:
+  - name: researchmap
+    url: https://researchmap.jp/miyakoshi.yuki/
+  - name: Human Assistive Technology Laboratory
+    url: https://sites.google.com/view/inouelab/
+education:
+  - institution: Tokyo Denki University
+    degree: Ph.D. program, Mechanical Systems Engineering (in progress)
+    start: 2025-04-01
+    summary: |
+      - TDU International Workshop 2025
+      - Summer overseas short-term program in Vietnam, 2025
+
+  - institution: Tokyo Denki University
+    degree: M.Eng., Mechanical Engineering
+    start: 2023-04-01
+    end: 2025-03-31
+    summary: |
+      - Completed the 8th TDU Medical Device International Deployment Engineer Training Course, 2024
+
+  - institution: Tokyo Denki University
+    degree: B.Eng., Mechanical Engineering, School of Engineering, Division 2
+    start: 2019-04-01
+    end: 2023-03-31
+    summary: |
+      Qualifications:
+
+      - Second-class boiler engineer, October 2021
+
+      - Hazardous materials handler, Class B, Group 4, June 2021
+
+      - Fundamental Information Technology Engineer, April 2021
+
+      - First-class technical radio operator for on-the-ground services, March 2021
+
+      - Eiken Grade 2, July 2019
+
+experience:
+  - role: SPRING Scholarship Research Student
+    org: Tokyo Denki University
+    start: 2025-04-09
+    summary: |
+      Selected as a SPRING Scholarship Research Student under the JST Support for Pioneering Research Initiated by the Next Generation program, "TDU Doctoral Talent Development Program Based on Respect for Practical Learning."
+    button:
+      text: View news
+      url: https://www.dendai.ac.jp/news/20250409-01.html
+      icon: hero/arrow-down-tray
