@@ -6,7 +6,7 @@ name:
   family: MIYAKOSHI
   pronunciation: MIYAKOSHI Yuki
 is_owner: true
-role: 博士後期課程（機械システム工学）
+role: 先端科学技術研究科 博士後期課程（機械システム工学）
 bio: ''
 affiliations:
   - name: researchmap
@@ -17,22 +17,23 @@ links:
   - icon: brands/github
     url: https://github.com/yuki-miyakoshi
 education:
-  - institution: 東京電機大学
-    degree: 博士（工学）課程 機械システム工学専攻（在学中）
+  - institution: 東京電機大学 先端科学技術研究科 機械システム工学専攻
+    degree: 博士後期課程（在学中）
     start: 2025-04-01
     summary: |
-      - TDU International Workshop 2025
-      - 2025年度 夏季海外短期研修（ベトナム）
+      - TDU International Workshop 2025（2025年7月27日–8月2日、東京電機大学東京千住キャンパス）
+      - 2025年度夏季海外短期研修（2025年8月10日–8月31日、ベトナム・ダナン、FPT大学）
+      - プレFD科目「TDU Preparing Future Faculty Seminar」修了（2026年7月11日）
 
-  - institution: 東京電機大学
-    degree: 修士（工学）機械工学専攻
+  - institution: 東京電機大学 工学研究科 機械工学専攻
+    degree: 修士（工学）
     start: 2023-04-01
     end: 2025-03-31
     summary: |
       - 第8回 令和6年度 東京電機大学医療機器国際展開技術者育成講座 修了
 
-  - institution: 東京電機大学
-    degree: 学士（工学）工学部第二部 機械工学科
+  - institution: 東京電機大学 工学部第二部 機械工学科
+    degree: 学士（工学）
     start: 2019-04-01
     end: 2023-03-31
     summary: |

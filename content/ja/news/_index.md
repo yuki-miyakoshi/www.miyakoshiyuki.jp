@@ -1,4 +1,4 @@
 ---
 title: ニュース
-view: news
+view: date-title-summary
 ---

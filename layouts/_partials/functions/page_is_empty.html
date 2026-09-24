@@ -1,0 +1,5 @@
+{{/* True when a page has no visible body, summary, or abstract. */}}
+{{ $raw := .RawContent | replaceRE `(?s)<!--.*?-->` "" | plainify | strings.TrimSpace }}
+{{ $summary := .Params.summary | default "" | strings.TrimSpace }}
+{{ $abstract := .Params.abstract | default "" | strings.TrimSpace }}
+{{ return and (eq $raw "") (eq $summary "") (eq $abstract "") }}

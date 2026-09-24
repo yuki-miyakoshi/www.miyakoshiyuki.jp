@@ -5,7 +5,7 @@ name:
   given: Yuki
   family: Miyakoshi
   pronunciation: MIYAKOSHI Yuki
-role: Ph.D. Student in Mechanical Systems Engineering
+role: Ph.D. Student, Graduate School of Advanced Science and Technology
 bio: ''
 affiliations:
   - name: researchmap
@@ -13,22 +13,23 @@ affiliations:
   - name: Human Assistive Technology Laboratory
     url: https://sites.google.com/view/inouelab/
 education:
-  - institution: Tokyo Denki University
-    degree: Ph.D. program, Mechanical Systems Engineering (in progress)
+  - institution: Tokyo Denki University, Graduate School of Advanced Science and Technology, Mechanical Systems Engineering
+    degree: Ph.D. program (in progress)
     start: 2025-04-01
     summary: |
-      - TDU International Workshop 2025
-      - Summer overseas short-term program in Vietnam, 2025
+      - TDU International Workshop 2025 (July 27 to August 2, 2025, Tokyo Senju Campus, Tokyo Denki University)
+      - Summer overseas short-term program (August 10 to 31, 2025, FPT University, Da Nang, Vietnam)
+      - Completed the pre-FD course "TDU Preparing Future Faculty Seminar" (July 11, 2026)
 
-  - institution: Tokyo Denki University
-    degree: M.Eng., Mechanical Engineering
+  - institution: Tokyo Denki University, Graduate School of Engineering, Mechanical Engineering
+    degree: M.Eng.
     start: 2023-04-01
     end: 2025-03-31
     summary: |
       - Completed the 8th TDU Medical Device International Deployment Engineer Training Course, 2024
 
-  - institution: Tokyo Denki University
-    degree: B.Eng., Mechanical Engineering, School of Engineering, Division 2
+  - institution: Tokyo Denki University, School of Engineering, Division 2, Mechanical Engineering
+    degree: B.Eng.
     start: 2019-04-01
     end: 2023-03-31
     summary: |

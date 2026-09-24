@@ -1,0 +1,56 @@
+{{ $item := .item }}
+{{ $year_value := $item.Params.event_start | default $item.Date }}
+{{ $year := (time $year_value).Format "2006" }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+{{ $empty := partial "functions/page_is_empty.html" $item }}
+{{ $href := "" }}
+{{ if $item.Params.event_url }}
+  {{ $href = $item.Params.event_url }}
+{{ else if not $empty }}
+  {{ $href = $item.RelPermalink }}
+{{ end }}
+{{ $external := ne ($item.Params.event_url | default "") "" }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{ if eq (site.Params.hugoblox.content.citations.style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+  ({{- $year -}}).
+  {{ if $href }}<a href="{{ $href }}" class="underline"{{ if $external }} target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+  {{ end }}
+
+  {{ if and $has_attachments (not $empty) }}
+  <div class="flex flex-wrap space-x-3">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}.
+  </span>
+  {{ if $href }}<a href="{{ $href }}"{{ if $external }} target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}},
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}},
+  {{ end }}
+  {{- $year -}}.
+
+  {{ if and $has_attachments (not $empty) }}
+  <div class="flex flex-wrap space-x-3">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>

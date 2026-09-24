@@ -62,7 +62,7 @@ sections:
         folders:
           - events
     design:
-      view: article-grid
+      view: citation
   - block: collection
     id: news
     content:
@@ -82,7 +82,7 @@ sections:
       offset: 0
       order: desc
     design:
-      view: news
+      view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
 ---

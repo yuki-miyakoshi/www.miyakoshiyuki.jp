@@ -1,0 +1,3 @@
+{{ if and (eq .Kind "page") (partial "functions/page_is_empty.html" .) }}
+  <meta name="robots" content="noindex" />
+{{ end }}

@@ -1,7 +1,7 @@
 ---
 title: Talks
 cms_exclude: true
-view: card
+view: citation
 image:
   caption: ''
   filename: ''

@@ -15,7 +15,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |
-        東京電機大学大学院 先端科学技術研究科 機械システム工学専攻の博士後期課程に在籍しています。SPRINGスカラシップ研究学生として、建設現場の技能者の疲労を減らすパワーアシストスーツの評価と改良に取り組んでいます。モーションキャプチャで得た関節角度を、視覚的かつ定量的に評価する手法が現在のテーマです。
+        東京電機大学大学院 先端科学技術研究科 機械システム工学専攻の博士後期課程に在籍している。SPRINGスカラシップ研究学生として、建設現場の技能者の疲労を減らすパワーアシストスーツの評価と改良に取り組んでいる。モーションキャプチャで得た関節角度を、視覚的かつ定量的に評価する手法が現在のテーマである。
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -43,7 +43,7 @@ sections:
       title: '研究'
       subtitle: ''
       text: |-
-        研究の目標は、少子高齢化で増えるインフラ維持と介護の身体負担を、支援機器で軽くすることです。電気工事のような人力に依存する作業を対象に、アシストスーツが姿勢や疲労をどう変えるかを測れるようにします。
+        研究の目標は、少子高齢化で増えるインフラ維持と介護の身体負担を、支援機器で軽くすることである。電気工事のような人力に依存する作業を対象に、アシストスーツが姿勢や疲労をどう変えるかを測れるようにする。
     design:
       columns: '1'
   - block: markdown
@@ -51,7 +51,7 @@ sections:
       title: 'その他'
       subtitle: ''
       text: |-
-        個人ではサーバーの構築と運用、アマチュア無線（430MHz帯のFM通信、5.7GHz帯のFPVドローン）、iOSアプリ『漢字ぴったん』（2023年、App Store）にも取り組んでいます。
+        個人ではサーバーの構築と運用、アマチュア無線（430MHz帯のFM通信、5.7GHz帯のFPVドローン）、iOSアプリ『漢字ぴったん』（2023年、App Store）にも取り組んでいる。
     design:
       columns: '1'
   # - block: collection
@@ -86,7 +86,7 @@ sections:
         folders:
           - events
     design:
-      view: article-grid
+      view: citation
   - block: collection
     id: news
     content:
@@ -112,7 +112,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: news
+      view: date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

@@ -1,0 +1,57 @@
+schema: hugoblox/author/v1
+slug: me_vi
+name:
+  display: Yuki Miyakoshi
+  given: Yuki
+  family: Miyakoshi
+  pronunciation: MIYAKOSHI Yuki
+role: Nghiên cứu sinh tiến sĩ, Khoa sau đại học Khoa học và Công nghệ Tiên tiến
+bio: ''
+affiliations:
+  - name: researchmap
+    url: https://researchmap.jp/miyakoshi.yuki/
+  - name: Phòng thí nghiệm Công nghệ hỗ trợ con người
+    url: https://sites.google.com/view/inouelab/
+education:
+  - institution: Đại học Tokyo Denki, Khoa sau đại học Khoa học và Công nghệ Tiên tiến, Kỹ thuật hệ thống cơ khí
+    degree: Chương trình tiến sĩ (đang học)
+    start: 2025-04-01
+    summary: |
+      - TDU International Workshop 2025 (27 tháng 7 đến 2 tháng 8 năm 2025, Cơ sở Tokyo Senju, Đại học Tokyo Denki)
+      - Chương trình ngắn hạn mùa hè ở nước ngoài (10 đến 31 tháng 8 năm 2025, Đại học FPT, Đà Nẵng, Việt Nam)
+      - Hoàn thành học phần tiền FD "TDU Preparing Future Faculty Seminar" (11 tháng 7 năm 2026)
+
+  - institution: Đại học Tokyo Denki, Khoa sau đại học Kỹ thuật, Kỹ thuật cơ khí
+    degree: Thạc sĩ kỹ thuật
+    start: 2023-04-01
+    end: 2025-03-31
+    summary: |
+      - Hoàn thành khóa đào tạo kỹ sư triển khai thiết bị y tế quốc tế lần thứ 8 của Đại học Tokyo Denki, năm 2024
+
+  - institution: Đại học Tokyo Denki, Khoa Kỹ thuật hệ 2, Kỹ thuật cơ khí
+    degree: Cử nhân kỹ thuật
+    start: 2019-04-01
+    end: 2023-03-31
+    summary: |
+      Chứng chỉ:
+
+      - Kỹ sư nồi hơi hạng hai, tháng 10 năm 2021
+
+      - Người xử lý vật liệu nguy hiểm nhóm B loại 4, tháng 6 năm 2021
+
+      - Kỹ sư công nghệ thông tin cơ bản, tháng 4 năm 2021
+
+      - Kỹ thuật viên vô tuyến mặt đất hạng nhất, tháng 3 năm 2021
+
+      - Chứng chỉ tiếng Anh Eiken bậc 2, tháng 7 năm 2019
+
+experience:
+  - role: Nghiên cứu sinh học bổng SPRING
+    org: Đại học Tokyo Denki
+    start: 2025-04-09
+    summary: |
+      Được chọn làm nghiên cứu sinh học bổng SPRING trong chương trình của JST hỗ trợ nghiên cứu tiên phong của thế hệ kế tiếp, "Chương trình đào tạo nhân tài tiến sĩ Đại học Tokyo Denki dựa trên tôn trọng học thuật thực tiễn."
+    button:
+      text: Xem tin
+      url: https://www.dendai.ac.jp/news/20250409-01.html
+      icon: hero/arrow-down-tray

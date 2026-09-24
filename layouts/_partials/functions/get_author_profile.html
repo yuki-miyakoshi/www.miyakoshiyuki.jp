@@ -39,8 +39,8 @@ Output (dict):
 {{- $slug = $slug | urlize -}}
 
 {{- $data := index site.Data.authors $slug -}}
-{{- if and $data (eq site.Language.Lang "en") -}}
-  {{- with index site.Data.authors (printf "%s_en" $slug) -}}
+{{- if and $data (or (eq site.Language.Lang "en") (eq site.Language.Lang "vi")) -}}
+  {{- with index site.Data.authors (printf "%s_%s" $slug site.Language.Lang) -}}
     {{- $data = merge $data . -}}
   {{- end -}}
 {{- end -}}

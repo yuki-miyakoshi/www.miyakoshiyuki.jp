@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: '宮腰悠希のポートフォリオサイト'
+title: '宮腰悠希 | 東京電機大学'
 # Website URL
 baseURL: 'https://www.miyakoshiyuki.jp/'
 

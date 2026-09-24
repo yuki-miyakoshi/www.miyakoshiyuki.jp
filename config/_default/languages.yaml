@@ -6,16 +6,18 @@ ja:
   languageName: 日本語
   contentDir: content/ja
   weight: 1
-  title: 宮腰悠希のポートフォリオサイト
+  title: 宮腰悠希 | 東京電機大学
 
 en:
   languageCode: en-US
   languageName: English
   contentDir: content/en
   weight: 2
-  title: Yuki Miyakoshi
+  title: Yuki Miyakoshi | Tokyo Denki University
   params:
     hugoblox:
+      seo:
+        title: Yuki Miyakoshi | Tokyo Denki University
       identity:
         name: MIYAKOSHI Yuki
         description: "Ph.D. student in mechanical systems engineering at Tokyo Denki University. Research on evaluating and improving power assist suits."
@@ -49,5 +51,51 @@ en:
         weight: 21
       - identifier: contact
         name: Contact
+        url: contact/
+        weight: 30
+
+vi:
+  languageCode: vi-VN
+  languageName: Tiếng Việt
+  contentDir: content/vi
+  weight: 3
+  title: Yuki Miyakoshi | Đại học Tokyo Denki
+  params:
+    hugoblox:
+      seo:
+        title: Yuki Miyakoshi | Đại học Tokyo Denki
+      identity:
+        name: MIYAKOSHI Yuki
+        description: "Nghiên cứu sinh tiến sĩ kỹ thuật hệ thống cơ khí tại Đại học Tokyo Denki. Nghiên cứu đánh giá và cải tiến bộ đồ hỗ trợ lực."
+      copyright:
+        notice: "© {year} {name}"
+  menus:
+    main:
+      - identifier: about
+        name: Giới thiệu
+        url: /
+        weight: 10
+      - identifier: publications
+        name: Công bố
+        url: publications/
+        weight: 11
+      - identifier: talks
+        name: Thuyết trình
+        url: events/
+        weight: 12
+      - identifier: news
+        name: Tin tức
+        url: news/
+        weight: 13
+      - identifier: experience
+        name: Kinh nghiệm
+        url: experience/
+        weight: 20
+      - identifier: projects
+        name: Dự án
+        url: projects/
+        weight: 21
+      - identifier: contact
+        name: Liên hệ
         url: contact/
         weight: 30
