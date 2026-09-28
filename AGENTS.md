@@ -18,11 +18,9 @@
 - 主な編集対象:
   - content/ja/: 日本語のページ本文と frontmatter
   - content/en/: 英語のページ本文と frontmatter。相対パスは日本語と同じにする
-  - content/vi/: ベトナム語のページ本文と frontmatter。相対パスは日本語と同じにする
   - config/_default/: サイト設定
   - data/authors/me.yaml: 日本語の著者プロフィール
   - data/authors/me_en.yaml: 英語の肩書き、所属、学歴、経歴
-  - data/authors/me_vi.yaml: ベトナム語の肩書き、所属、学歴、経歴
   - assets/css/custom.css: 追加スタイル
   - layouts/_partials/: カスタム表示ロジック
   - layouts/single.html: ニュース個別ページの日付表示
@@ -31,7 +29,8 @@
   - resources/_gen/
 - サイト言語は日本語が既定:
   - config/_default/hugo.yaml の defaultContentLanguage は ja
-  - 英語は /en/、ベトナム語は /vi/。defaultContentLanguageInSubdir は false
+  - 英語は /en/。defaultContentLanguageInSubdir は false
+  - ベトナム語は無効。content/vi/ と data/authors/me_vi.yaml は残してあるが、言語設定には入れない
 
 ## Code Style
 
