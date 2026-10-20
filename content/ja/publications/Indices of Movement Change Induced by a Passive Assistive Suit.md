@@ -6,8 +6,8 @@ date: 2026-10-17T00:00:00Z
 publishDate: 2026-10-17T00:00:00Z
 publication_types:
   - paper-conference
-publication: ATACS2026 予稿集 INU01
-publication_short: ATACS2026 予稿集 INU01
+publication: ATACS2026 予稿集 INU01 (2026.10.17)
+publication_short: ATACS2026 予稿集 INU01 (2026.10.17)
 featured: true
 image:
   caption: "Image credit: [**Human Assistive Technology

@@ -6,7 +6,7 @@ date: 2026-10-17T00:00:00Z
 publishDate: 2026-10-17T00:00:00Z
 publication_types:
   - paper-conference
-publication: Proceedings of ATACS 2026, INU01
-publication_short: Proceedings of ATACS 2026, INU01
+publication: Proceedings of ATACS 2026, INU01 (2026.10.17)
+publication_short: Proceedings of ATACS 2026, INU01 (2026.10.17)
 featured: true
 ---
